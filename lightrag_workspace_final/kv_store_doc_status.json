@@ -1,0 +1,29 @@
+{
+  "doc-2d2fc92ce2ae73244fc4787dbef49b9f": {
+    "status": "processed",
+    "content_summary": "[대한민국 민법: 상속 및 이혼 관련 일상생활 법률 (최종)]\n\n1. 법정상속순위와 상속분\n피상속인(사망자)이 유언 없이 사망한 경우 민법에 따라 상속이 이루어진다. 제1순위 상속인은 피상속인의 직계비속(자녀, 손자녀 등)과 배우자이며, 제2순위는 피상속인의 직계존속(부모, 조부모 등)과 배우자이다. 만약 직계비속과 직계존속이 모두 없는 경우 배우자가 단독 상속인이 된다. \n상속재산을 나눌 때, 배우자의 상속분은 직계비속이나 직계존속의 상속분에...",
+    "content_length": 896,
+    "created_at": "2026-08-15T04:14:11.956680+00:00",
+    "updated_at": "2026-08-15T04:14:19.340586+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20260815_131411_aecb17f8",
+    "content_hash": "2d2fc92ce2ae73244fc4787dbef49b9f",
+    "metadata": {
+      "parse_start_time": 1786767251,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1786767251,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1786767251,
+      "process_end_time": 1786767259,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ]
+  }
+}

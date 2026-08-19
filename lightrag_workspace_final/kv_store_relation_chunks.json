@@ -1,0 +1,146 @@
+{
+  "가정법원<SEP>대한민국 민법": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "가정법원<SEP>대한민국 민법"
+  },
+  "제1순위 상속인<SEP>직계비속": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "제1순위 상속인<SEP>직계비속"
+  },
+  "제2순위 상속인<SEP>직계존속": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "제2순위 상속인<SEP>직계존속"
+  },
+  "대한민국 민법<SEP>재산분할청구권": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "대한민국 민법<SEP>재산분할청구권"
+  },
+  "가정법원<SEP>상속포기": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "가정법원<SEP>상속포기"
+  },
+  "배우자<SEP>제1순위 상속인": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "배우자<SEP>제1순위 상속인"
+  },
+  "상속인<SEP>피상속인": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "상속인<SEP>피상속인"
+  },
+  "대한민국 민법<SEP>면접교섭권": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "대한민국 민법<SEP>면접교섭권"
+  },
+  "가정법원<SEP>한정승인": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "가정법원<SEP>한정승인"
+  },
+  "배우자<SEP>제2순위 상속인": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "배우자<SEP>제2순위 상속인"
+  },
+  "재산분할청구권<SEP>협의이혼": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "재산분할청구권<SEP>협의이혼"
+  },
+  "상속인<SEP>상속포기": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "상속인<SEP>상속포기"
+  },
+  "면접교섭권<SEP>비양육친": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "면접교섭권<SEP>비양육친"
+  },
+  "재산분할청구권<SEP>재판상 이혼": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "재산분할청구권<SEP>재판상 이혼"
+  },
+  "상속인<SEP>한정승인": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "상속인<SEP>한정승인"
+  },
+  "비양육친<SEP>양육비": {
+    "chunk_ids": [
+      "doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1786767258,
+    "update_time": 1786767258,
+    "_id": "비양육친<SEP>양육비"
+  }
+}

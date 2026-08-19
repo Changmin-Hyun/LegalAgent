@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="대한민국 민법">
+  <data key="d0">대한민국 민법</data>
+  <data key="d1">content</data>
+  <data key="d2">The civil law of South Korea governing inheritance, divorce, and related daily legal matters.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="가정법원">
+  <data key="d0">가정법원</data>
+  <data key="d1">organization</data>
+  <data key="d2">The family court responsible for legal declarations and rulings regarding inheritance, divorce, and child custody.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="상속포기">
+  <data key="d0">상속포기</data>
+  <data key="d1">concept</data>
+  <data key="d2">A legal procedure where an heir renounces their inheritance rights, including debts, within three months of knowing about the inheritance opening.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="한정승인">
+  <data key="d0">한정승인</data>
+  <data key="d1">concept</data>
+  <data key="d2">A conditional acceptance of inheritance where an heir agrees to pay the deceased's debts only within the limit of the inherited property.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="재산분할청구권">
+  <data key="d0">재산분할청구권</data>
+  <data key="d1">concept</data>
+  <data key="d2">The right of a spouse to claim a division of jointly formed property upon divorce, which expires two years after the divorce date.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="면접교섭권">
+  <data key="d0">면접교섭권</data>
+  <data key="d1">concept</data>
+  <data key="d2">The right of the non-custodial parent to meet and communicate with their child after a divorce.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="양육비">
+  <data key="d0">양육비</data>
+  <data key="d1">data</data>
+  <data key="d2">The financial maintenance expenses that the non-custodial parent has the obligation to pay to the custodial parent for child-rearing.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="피상속인">
+  <data key="d0">피상속인</data>
+  <data key="d1">person</data>
+  <data key="d2">The deceased person whose property and inheritance are passed down under civil law.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="상속인">
+  <data key="d0">상속인</data>
+  <data key="d1">person</data>
+  <data key="d2">The person who inherits the property, assets, and debts of a deceased individual according to the law.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="제1순위 상속인">
+  <data key="d0">제1순위 상속인</data>
+  <data key="d1">person</data>
+  <data key="d2">The primary heirs consisting of descendants and the spouse of the deceased.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="제2순위 상속인">
+  <data key="d0">제2순위 상속인</data>
+  <data key="d1">person</data>
+  <data key="d2">The secondary heirs consisting of ascendants and the spouse of the deceased.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="배우자">
+  <data key="d0">배우자</data>
+  <data key="d1">person</data>
+  <data key="d2">The husband or wife of the deceased or divorcing party who holds specific inheritance shares and property division rights.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="직계비속">
+  <data key="d0">직계비속</data>
+  <data key="d1">person</data>
+  <data key="d2">Direct descendants such as children and grandchildren of the deceased.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="직계존속">
+  <data key="d0">직계존속</data>
+  <data key="d1">person</data>
+  <data key="d2">Direct ascendants such as parents and grandparents of the deceased.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="협의이혼">
+  <data key="d0">협의이혼</data>
+  <data key="d1">event</data>
+  <data key="d2">A divorce completed through mutual agreement between spouses.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="재판상 이혼">
+  <data key="d0">재판상 이혼</data>
+  <data key="d1">event</data>
+  <data key="d2">A divorce finalized through judicial court proceedings.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="친권자">
+  <data key="d0">친권자</data>
+  <data key="d1">person</data>
+  <data key="d2">The parent designated to hold parental authority over minor children after a divorce.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="양육자">
+  <data key="d0">양육자</data>
+  <data key="d1">person</data>
+  <data key="d2">The parent designated to raise and care for minor children after a divorce.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<node id="비양육친">
+  <data key="d0">비양육친</data>
+  <data key="d1">person</data>
+  <data key="d2">The parent who does not have custody of the minor child after a divorce.</data>
+  <data key="d3">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1786767258</data>
+  <data key="d6"></data>
+</node>
+<edge source="대한민국 민법" target="가정법원">
+  <data key="d7">1.0</data>
+  <data key="d8">The South Korean Civil Law establishes procedures and authorities for the family court to handle matters such as inheritance renunciation, qualified acceptance, and divorce settlements.</data>
+  <data key="d9">governs,jurisdiction</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="대한민국 민법" target="재산분할청구권">
+  <data key="d7">1.0</data>
+  <data key="d8">The South Korean Civil Law regulates the property division claim right, allowing spouses to claim property division during both agreed and judicial divorces.</data>
+  <data key="d9">regulates</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="대한민국 민법" target="면접교섭권">
+  <data key="d7">1.0</data>
+  <data key="d8">The South Korean Civil Law establishes the visitation rights for non-custodial parents regarding minor children after a divorce.</data>
+  <data key="d9">establishes</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="가정법원" target="상속포기">
+  <data key="d7">1.0</data>
+  <data key="d8">An heir must file a report for inheritance renunciation at the family court within three months of knowing about the inheritance opening.</data>
+  <data key="d9">filed at</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="가정법원" target="한정승인">
+  <data key="d7">1.0</data>
+  <data key="d8">An heir must file a report for qualified acceptance at the family court within three months of knowing about the inheritance opening.</data>
+  <data key="d9">filed at</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="상속포기" target="상속인">
+  <data key="d7">1.0</data>
+  <data key="d8">An heir can file for inheritance renunciation within three months if debts exceed property.</data>
+  <data key="d9">can be filed by</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="한정승인" target="상속인">
+  <data key="d7">1.0</data>
+  <data key="d8">An heir can file for qualified acceptance within three months to limit debt liability to inherited assets.</data>
+  <data key="d9">can be filed by</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="재산분할청구권" target="협의이혼">
+  <data key="d7">1.0</data>
+  <data key="d8">Spouses undergoing an agreed divorce can claim a division of jointly formed property.</data>
+  <data key="d9">allows</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="재산분할청구권" target="재판상 이혼">
+  <data key="d7">1.0</data>
+  <data key="d8">Spouses undergoing a judicial divorce can claim a division of jointly formed property.</data>
+  <data key="d9">allows</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="면접교섭권" target="비양육친">
+  <data key="d7">1.0</data>
+  <data key="d8">The non-custodial parent possesses the right of visitation to meet and contact the child.</data>
+  <data key="d9">possesses</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="양육비" target="비양육친">
+  <data key="d7">1.0</data>
+  <data key="d8">The non-custodial parent has the obligation to pay child-rearing expenses to the custodial parent.</data>
+  <data key="d9">pays</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="피상속인" target="상속인">
+  <data key="d7">1.0</data>
+  <data key="d8">The heir inherits both the property and the debts of the deceased.</data>
+  <data key="d9">inherits from</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="제1순위 상속인" target="직계비속">
+  <data key="d7">1.0</data>
+  <data key="d8">The first-rank heirs include the direct descendants of the deceased along with the spouse.</data>
+  <data key="d9">includes</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="제1순위 상속인" target="배우자">
+  <data key="d7">1.0</data>
+  <data key="d8">The first-rank heirs include the spouse of the deceased along with direct descendants.</data>
+  <data key="d9">includes</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="제2순위 상속인" target="직계존속">
+  <data key="d7">1.0</data>
+  <data key="d8">The second-rank heirs include the direct ascendants of the deceased along with the spouse.</data>
+  <data key="d9">includes</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+<edge source="제2순위 상속인" target="배우자">
+  <data key="d7">1.0</data>
+  <data key="d8">The second-rank heirs include the spouse of the deceased along with direct ascendants.</data>
+  <data key="d9">includes</data>
+  <data key="d10">doc-2d2fc92ce2ae73244fc4787dbef49b9f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1786767258</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>
